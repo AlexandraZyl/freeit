@@ -26,6 +26,7 @@ public class MonthAndSeasonWithSwitch {
             case 11: System.out.println("November related to the season - autumn");    break;
             case 12: System.out.println("December related to the season - winter");    break;
             default: System.out.println(" - This is not a month!");   break;
+
         }
     }
 }
